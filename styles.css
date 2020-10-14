@@ -1,5 +1,12 @@
 .square {
-  background-color: grey;
   height: 400px;
   width: 400px;
+}
+
+.gray {
+  background-color: grey;
+}
+
+.pink {
+  background-color: pink;
 }
